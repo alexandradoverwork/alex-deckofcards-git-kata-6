@@ -33,3 +33,8 @@ Docker
 docker build -t deckofcards .
 docker run -p 8000:8000 -d deckofcards:latest
 ```
+
+
+Note
+
+This project has been edited as part of a Git Kata Exercise
